@@ -1,0 +1,1 @@
+A small blog about troubles that I encounter in my journey as a developer and guides that could help others facing similar problems. 
